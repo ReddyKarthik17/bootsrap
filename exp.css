@@ -1,0 +1,61 @@
+.b{
+	margin: 10px;
+	background-color: gray;
+	height: 50px;
+	width: 50;
+}
+}
+.bo{
+	height: 540px;
+	width: 1000px;
+	margin: 100px;
+	background-color: darkred;
+}
+.k{
+	margin: 100px;
+	background-color: black;
+	height: 315px;
+	/*padding: 5px;*/
+	width: 600px;
+    outline:10px solid red;}
+.a{
+	margin: 1px;
+	background-color: lightskyblue;
+	height: 100px;
+	width: 100;
+	margin-bottom: 5px;
+}
+.c{
+	margin: 1px;
+	background-color: yellow;
+	height: 100px;
+	width: 100;
+	margin-bottom: 5px;
+	margin-left: 3px;
+}
+.d{
+	margin: 1px;
+	background-color: whitesmoke;
+	height: 100px;
+	width: 100;
+	margin-left: 4px;
+	margin-right: 4px;
+}
+.e{
+	margin: 1px;
+	background-color: lightpink;
+	height: 100px;
+	width: 100;
+}
+.f{
+	margin: 1px;
+	background-color: lightgreen;
+	height: 100px;
+	width: 100;
+}
+.vertical{
+	height: 100px;
+	color: red;
+	margin-left: 150px;
+
+}
